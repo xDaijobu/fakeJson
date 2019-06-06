@@ -10,14 +10,12 @@
   ],
   "UserLogin": [
     {
-        "id" : 1,
         "Username": "Jobubu", 
         "Password": "JobuTesting"
     }
   ],
   "result": [
         {
-            "id" : 1,
             "code": "0",
             "message": "Sukses"
         }
