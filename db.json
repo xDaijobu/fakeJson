@@ -8,7 +8,16 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "UserLogin": {
-    "Username": "Jobubu", "Password": "JobuTesting"
-  }
+  "UserLogin": [
+    {
+        "Username": "Jobubu", 
+        "Password": "JobuTesting"
+    }
+  ],
+  "result": [
+        {
+            "code": "0",
+            "message": "9349920; "
+        }
+  ]
 }
